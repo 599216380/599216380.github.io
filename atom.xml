@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>飛</title>
+  
+  
+  <link href="https://599216380.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://599216380.github.io/"/>
+  <updated>2021-12-12T03:41:24.626Z</updated>
+  <id>https://599216380.github.io/</id>
+  
+  <author>
+    <name>Breeze</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://599216380.github.io/2021/12/12/about/"/>
+    <id>https://599216380.github.io/2021/12/12/about/</id>
+    <published>2021-12-12T03:41:17.990Z</published>
+    <updated>2021-12-12T03:41:24.626Z</updated>
+    
+    <content type="html"><![CDATA[<p>A developer, live in Kaifeng, China.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;A developer, live in Kaifeng, China.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
